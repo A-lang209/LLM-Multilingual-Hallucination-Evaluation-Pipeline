@@ -62,11 +62,3 @@ The architecture ingests data from `llm_hallucination_dataset_v1.csv`, which cov
 * **Languages Evaluated:** English, Spanish, French, German, Mandarin, Arabic, Hindi.
 * **Hallucination Phenotypes:** Factual-Contradiction, Overclaim, Entity-Error, Relation-Error, Outdatedness, Unverifiability, Incompleteness.
 
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-Ensure you have Python 3.8+ installed along with the required analytical packages:
-```bash
-pip install pandas numpy scikit-learn
