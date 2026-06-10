@@ -1,5 +1,3 @@
-# LLM-Multilingual-Hallucination-Evaluation-Pipeline
-
 # Multilingual LLM Hallucination Evaluation Pipeline
 
 An end-to-end, production-grade validation and classification pipeline built to programmatically identify, score, and diagnose extrinsic hallucinations in Large Language Models (LLMs). This project evaluates model reliability across 5 state-of-the-art architectures, 7 languages (including morphologically rich, non-Latin scripts), and 8 diverse domain workflows.
